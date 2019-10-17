@@ -15,7 +15,7 @@ So let's learn about the Sharpe ratio by calculating it for the stocks of the tw
 2016 Daily Amazon, Facebook and S&P500 close prices.
 
 ## 3.  The conclusion
-![sharpe_ratio](pics/sharpe_ratio)
+![sharpe_ratio](pics/sharpe_ratios.png)
 Given the two Sharpe ratios, which investment should we go for? In 2016, Amazon had a Sharpe ratio twice as high as Facebook. This means that an investment in Amazon returned twice as much compared to the S&P 500 for each unit of risk an investor would have assumed. In other words, in risk-adjusted terms, the investment in Amazon would have been more attractive.
 
 This difference was mostly driven by differences in return rather than risk between Amazon and Facebook. The risk of choosing Amazon over FB (as measured by the standard deviation) was only slightly higher so that the higher Sharpe ratio for Amazon ends up higher mainly due to the higher average daily returns for Amazon.
