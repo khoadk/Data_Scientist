@@ -6,7 +6,7 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 ## 2. Datesets:
 We'll use the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval) from the UCI Machine Learning Repository. 
 
-This file concerns credit card applications. All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.
+All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.
 
 This dataset is interesting because there is a good mix of attributes -- continuous, nominal with small numbers of values, and nominal with larger numbers of values. There are also a few missing values.
 
