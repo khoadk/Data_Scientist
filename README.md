@@ -9,3 +9,7 @@
 
 **3. Project 3**: Predicting Credit Card Approvals by **Supervised Learning with scikit-learn**
 - Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. 
+
+**4. Project 4**: Breast Cancer Detection with **Supervised Learning from scikit-learn**
+- Breast cancer (BC) is one of the most common cancers among women worldwide, representing the majority of new cancer cases and cancer-related deaths according to global statistics, making it a significant public health problem in today’s society. The early diagnosis of BC can improve the prognosis and chance of survival significantly, as it can promote timely clinical treatment to patients.
+- Detecting breast cancer through machine learning models such as **LogisticRegression, KNeighborsClassifier and SVC...**
